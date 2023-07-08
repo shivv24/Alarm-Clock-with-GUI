@@ -1,1 +1,2 @@
 # Alarm-Clock-with-GUI
+The Alarm Clock with GUI is a Python application that provides a simple and intuitive way to set alarms and get notified at specified times. With a graphical user interface (GUI), users can easily interact with the application and manage their alarms effectively. This project demonstrates the usage of Python and a GUI library, such as Tkinter, to create a functional and user-friendly alarm clock.
